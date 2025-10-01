@@ -1,2 +1,0 @@
-# Digital-clock-with-LCD-display
-This project implements a Digital Clock using MSP430 microcontroller and the DS3231 Real-Time Clock (RTC) module. The system displays the current time (hours, minutes, seconds) and date (day, month, year) on a 16x2 LCD. Additional features include time adjustment via push buttons, alarm function, countdown timer, stopwatch. The MSP430 communicates with the DS3231 using I2C protocol, and a menu-driven interface allows the user to navigate between different modes
