@@ -1,0 +1,107 @@
+Remove Pin=JP1-2 From Net=RA0
+Remove Pin=JP1-3 From Net=RA1
+Remove Pin=JP1-4 From Net=RA2
+Remove Pin=JP1-5 From Net=RA3
+Remove Pin=JP1-6 From Net=RA4
+Remove Pin=JP1-7 From Net=RA5
+Remove Pin=JP1-8 From Net=RB6
+Remove Pin=JP1-9 From Net=RB7
+Remove Pin=JP1-10 From Net=RE2
+Remove Pin=JP1-11 From Net=RE1
+Remove Pin=JP1-12 From Net=RE0
+Remove Pin=JP1-13 From Net=RC0
+Remove Pin=JP1-14 From Net=RC1
+Remove Pin=JP1-15 From Net=RC2
+Remove Pin=JP1-16 From Net=RC5
+Remove Pin=JP1-17 From Net=RC6
+Remove Pin=JP1-18 From Net=RC7
+Remove Pin=JP?-2 From Net=RA0
+Remove Pin=JP?-3 From Net=RA1
+Remove Pin=JP?-4 From Net=RA2
+Remove Pin=JP?-5 From Net=RA3
+Remove Pin=JP?-6 From Net=RA4
+Remove Pin=JP?-7 From Net=RA5
+Remove Pin=JP?-8 From Net=RB6
+Remove Pin=JP?-9 From Net=RB7
+Remove Pin=JP?-10 From Net=RE2
+Remove Pin=JP?-11 From Net=RE1
+Remove Pin=JP?-12 From Net=RE0
+Remove Pin=JP?-13 From Net=RC0
+Remove Pin=JP?-14 From Net=RC1
+Remove Pin=JP?-15 From Net=RC2
+Remove Pin=JP?-16 From Net=RC5
+Remove Pin=JP?-17 From Net=RC6
+Remove Pin=JP?-18 From Net=RC7
+Remove Pin=LCD?-4 From Net=RS
+Remove Pin=LCD?-5 From Net=RW
+Remove Pin=LCD?-6 From Net=EN
+Remove Pin=LCD?-11 From Net=D4
+Remove Pin=LCD?-12 From Net=D5
+Remove Pin=LCD?-13 From Net=D6
+Remove Pin=LCD?-14 From Net=D7
+Remove Pin=P1-2 From Net=RST
+Remove Pin=P1-3 From Net=INT/SQW
+Remove Pin=P1-4 From Net=32kHz
+Remove Pin=P?-2 From Net=RST
+Remove Pin=P?-3 From Net=INT/SQW
+Remove Pin=P?-4 From Net=32kHz
+Remove Pin=R?-1 From Net=BZ
+Remove Pin=R?-1 From Net=LED ALARM
+Remove Pin=U?-1 From Net=32kHz
+Remove Pin=U?-2 From Net=RA0
+Remove Pin=U?-3 From Net=INT/SQW
+Remove Pin=U?-3 From Net=RA1
+Remove Pin=U?-4 From Net=RA2
+Remove Pin=U?-4 From Net=RST
+Remove Pin=U?-5 From Net=RA3
+Remove Pin=U?-6 From Net=RA4
+Remove Pin=U?-7 From Net=RA5
+Remove Pin=U?-8 From Net=RE0
+Remove Pin=U?-9 From Net=RE1
+Remove Pin=U?-10 From Net=RE2
+Remove Pin=U?-15 From Net=RC0
+Remove Pin=U?-16 From Net=RC1
+Remove Pin=U?-17 From Net=RC2
+Remove Pin=U?-18 From Net=SCL
+Remove Pin=U?-19 From Net=RS
+Remove Pin=U?-20 From Net=RW
+Remove Pin=U?-21 From Net=EN
+Remove Pin=U?-22 From Net=D4
+Remove Pin=U?-23 From Net=SDA
+Remove Pin=U?-24 From Net=RC5
+Remove Pin=U?-25 From Net=RC6
+Remove Pin=U?-26 From Net=RC7
+Remove Pin=U?-27 From Net=D5
+Remove Pin=U?-28 From Net=D6
+Remove Pin=U?-29 From Net=D7
+Remove Pin=U?-30 From Net=BZ
+Remove Pin=U?-33 From Net=BT1
+Remove Pin=U?-34 From Net=BT2
+Remove Pin=U?-35 From Net=BT3
+Remove Pin=U?-36 From Net=BT4
+Remove Pin=U?-37 From Net=BT5
+Remove Pin=U?-38 From Net=LED ALARM
+Remove Pin=U?-39 From Net=RB6
+Remove Pin=U?-40 From Net=RB7
+Change Component Footprint: Designator=R4 Old Footprint=tro vach 1/2w New Footprint=tro smd 0603
+Change Component Footprint: Designator=R1 Old Footprint=tro vach 1/4w New Footprint=tro smd 0603
+Change Component Footprint: Designator=R3 Old Footprint=tro vach 1/4w New Footprint=tro smd 0603
+Change Component Footprint: Designator=R8 Old Footprint=tro vach 1/4w New Footprint=tro smd 0603
+Change Component Footprint: Designator=R10 Old Footprint=tro vach 1/4w New Footprint=tro smd 0603
+Change Component Footprint: Designator=R11 Old Footprint=tro vach 1/4w New Footprint=tro smd 0603
+Change Component Footprint: Designator=R12 Old Footprint=tro vach 1/4w New Footprint=tro smd 0603
+Change Component Footprint: Designator=R13 Old Footprint=tro vach 1/4w New Footprint=tro smd 0603
+Change Component Footprint: Designator=R14 Old Footprint=tro vach 1/4w New Footprint=tro smd 0603
+Change Component Footprint: Designator=R15 Old Footprint=tro vach 1/4w New Footprint=tro smd 0603
+Change Component Comment: Designator=R8 Old Comment=4.7k New Comment=1K
+Change Component Comment: Designator=R4 Old Comment=220k New Comment=10k
+Change Pin Designator/Name:  Old Designator=R10-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R10-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R11-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R11-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R12-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R12-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R13-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R13-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R14-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R14-2 Old Name=2 New Designator =1 New Name=1
