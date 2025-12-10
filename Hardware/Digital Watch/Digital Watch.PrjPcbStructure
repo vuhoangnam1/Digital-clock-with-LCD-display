@@ -1,7 +1,0 @@
-Record=TopLevelDocument|FileName=BIA1.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=BIA1.SchDoc|FileName=BIA2.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=BIA1.SchDoc|FileName=BLOCK DIAGRAM.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=BIA1.SchDoc|FileName=LCD_BT.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=BIA1.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=BIA1.SchDoc|FileName=Power_BZ_LED_HD.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=BIA1.SchDoc|FileName=Test1.SchDoc|SheetNumber=3
